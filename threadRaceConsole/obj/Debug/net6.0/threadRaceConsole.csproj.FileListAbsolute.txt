@@ -1,0 +1,15 @@
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\bin\Debug\net6.0\threadRaceConsole.exe
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\bin\Debug\net6.0\threadRaceConsole.deps.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\bin\Debug\net6.0\threadRaceConsole.runtimeconfig.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\bin\Debug\net6.0\threadRaceConsole.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\bin\Debug\net6.0\threadRaceConsole.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.csproj.AssemblyReference.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.AssemblyInfoInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.AssemblyInfo.cs
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.csproj.CoreCompileInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\refint\threadRaceConsole.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\threadRaceConsole.genruntimeconfig.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadRaceConsole\threadRaceConsole\obj\Debug\net6.0\ref\threadRaceConsole.dll
